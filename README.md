@@ -67,7 +67,3 @@ TOTAL ACCIDENTS: 150
 ## Contribution
 
 Contributions to improve the application are welcome! Please feel free to submit pull requests or open issues for discussion.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
