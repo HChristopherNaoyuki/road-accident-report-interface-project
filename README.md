@@ -1,4 +1,4 @@
-# Road Accident Demo
+# Road Accident
 
 ## Overview
 
